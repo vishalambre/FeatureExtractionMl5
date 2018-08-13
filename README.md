@@ -1,6 +1,6 @@
 # addingcustomobjectstomobilenet
 Example of training mobilenet model model with custom images
-Mobilenet a pretrained model in [ml5js](https://ml5js.org). THe Example also requires [p5](https://p5js.org/)
+Mobilenet a pretrained model in [ml5js](https://ml5js.org). THe Example also requires [p5js](https://p5js.org/)
 
 Usage:
 1. Add images of first object using by clicking on the **trainobj1** button.
